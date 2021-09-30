@@ -1,1 +1,1 @@
-# Group_4_Project
+# FRI_Group_4_Project
