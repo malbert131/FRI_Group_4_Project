@@ -1,0 +1,6 @@
+Clovis Project 6014C
+
+The line numbers did not match between the mag files and
+the rad files but there was good correlation between the
+files.  Therefore, the line numbers in the mag file were
+changed to match the rad file.
