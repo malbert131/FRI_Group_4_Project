@@ -1,1 +1,1 @@
-# FRI_Group_4_Project
+# Energy Analytics Research Project
